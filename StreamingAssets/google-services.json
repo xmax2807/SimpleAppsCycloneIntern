@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "534964203700",
+    "project_id": "apps-cyclone-intern",
+    "storage_bucket": "apps-cyclone-intern.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534964203700:android:49fc574173ffe34dd527e1",
+        "android_client_info": {
+          "package_name": "com.appscyclone.simplemultiplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534964203700-7ju4ame2sorqdaukkiqicmhketfqqbc9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appscyclone.simplemultiplayer",
+            "certificate_hash": "b55a48d1eb89b3c40a764a6fe414c86c876b5a92"
+          }
+        },
+        {
+          "client_id": "534964203700-3ie0is89a7fo8tine5gs3rn8g8faalqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-gRPEOXbCyXux0IykrKf37cCMBTXRkbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534964203700-3ie0is89a7fo8tine5gs3rn8g8faalqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
